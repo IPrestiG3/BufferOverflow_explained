@@ -13,6 +13,8 @@ Contents:
 
 4- BOF.rar ---> This includes all the files above, including a separate file that has all the pictures I've included in my guide.
 
+5- BOF_NOP_Explained ---> I included a PDF file which describes what is an NOP and what it is used for. 
+
 Good Luck.
 
 
